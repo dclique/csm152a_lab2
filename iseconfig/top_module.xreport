@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2015-04-27T08:29:20</DateModified>
+  <DateModified>2015-04-27T09:18:55</DateModified>
   <ModuleName>top_module</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
   <SavedFilePath>C:/Users/Alex/Documents/CSM152A/Lab2/iseconfig/top_module.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/Users/Alex/Documents/CSM152A/Lab2</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>C:/Users/Alex/Documents/CSM152A/Lab2\</ImplementationReportsDirectory>
   <DateInitialized>2015-04-27T08:00:25</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
